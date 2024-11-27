@@ -24,9 +24,9 @@ To get started with the projects in this directory, you need to have Node.js ins
     - Description: function named displayMessage that prints in STDOUT the string argument.
     - Files: `0-console.js`
 
-2. **Project 2: File System Module**
+2. **Using Process stdin**
     - Description: Learn how to use the File System module to read and write files.
-    - Files: `fileSystem.js`
+    - Files: `1-stdin.js`
 
 3. **Project 3: Asynchronous Programming**
     - Description: Understand asynchronous programming in Node.js using callbacks, promises, and async/await.
